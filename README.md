@@ -6,3 +6,7 @@ This python function encrypts and decrypts the text which is passed to the funct
 ### Project 2  - Building an RPG charater stats 
 
 This custom python function accepts the name of your RPG charater and also the stats to that character
+
+### Project 3  - Build a pin extractor
+
+Extracts a numeric secret code from one or more poems based on word positions in each line.
